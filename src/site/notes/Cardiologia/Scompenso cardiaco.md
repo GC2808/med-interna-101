@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cardiologia/scompenso-cardiaco/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/cardiologia/scompenso-cardiaco/"}
 ---
 
 Punto di convergenza di tutte le cardiopatie in fase terminale
