@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cardiologia/"}
 ---
 
+[[Angina di Prinzmetal\|Angina di Prinzmetal]]
 [[Cardiopatia ischemica\|Cardiopatia ischemica]]
 [[Insufficienza aortica\|Insufficienza aortica]]
 [[Insufficienza mitralica\|Insufficienza mitralica]]
