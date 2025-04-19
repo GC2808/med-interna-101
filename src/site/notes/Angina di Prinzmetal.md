@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/angina-di-prinzmetal/"}
 ---
 
-Variante che si presenta a riposo, dovuto ad uno spasmo coronarico che induce ischemia transmurale transitoria
+Variante che si presenta a riposo, dovuta ad uno spasmo coronarico che induce ischemia transmurale transitoria
 
 **NB Dal punto di vista ECG, è identica allo STEMI, ma ha durata inferiore (<20-30 min)**
 
