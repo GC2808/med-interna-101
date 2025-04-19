@@ -4,8 +4,6 @@
 
 Punto di convergenza di tutte le cardiopatie in fase terminale
 
-Frazione d'eiezione = quantità percentuale di sangue espulsa dal ventricolo ad ogni battito
-
 IC a frazione ridotta = insufficienza sistolica = gittata cardiaca minore
 - IMA causa principale
 - Cuori dilatati perché la zona infartuata tende a espandersi e ad alterare il profilo del ventricolo
@@ -73,3 +71,61 @@ Conseguenze su circolo portale
 Conseguenze su cava inferiore
 * edemi declivi, sia per cuore che per reni ipoperfusi che filtrano meno
 * anasarca (versamenti in cavità sierose)
+
+## Diagnosi
+
+- Clinica → sintomi e segni già citati
+- BNP = serve per escludere la diagnosi di IC, può essere aumentato anche in corso di FA e/o IRC. **L'obesità può ridurre i valori di BNP e dare dei falsi negativi!**
+- Ecocardio
+- ECG
+- RX Torace
+- Esami ematici (importante la valutazione di funzionalità renale, tiroidea, assetto marziale, glicemia/glicata)
+
+RM e test da sforzo sono secondi livelli. Biopsia endomiocardica e cateterismo cuore dx sono le ultime spiagge. 
+
+## Terapia 
+
+**HFrEF** (frazione d'eiezione ≤ 40%) → Gold standard = quadruplice terapia
+1) ACE-I
+2) Beta-bloccanti → non vanno inseriti in acuto, dove hanno un effetto controproducente. No se il pz va sotto i 50 bpm.
+3) Antagonisti del recettore dei mineralocorticoidi (MRA) → occhio se il pz è iperkaliemico.
+4) Glifozine → no se GFR < 15-20.
+
+Si cerca sempre di inserirli tutti e quattro, l'ordine con cui andrebbero inseriti è quello con cui sono citati
+
+Altri farmaci utilizzabili (seconde linee)
+- Sartani e ARNI (se intolleranza ad ACE-I)
+- Diuretici dell'ansa (sintomatici puri, non diminuiscono la mortalità)
+- Vericiguat
+- Nitroderivati (solo in etnia nera)
+- Ivabradina
+- Digossina
+
+CASI PARTICOLARI
+- FE ≤ 35%, QRS < 130 ms → ICD (dispositivo di defibrillazione impiantabile)
+- FE ≤ 35%, QRS > 130 ms → ICD o PACEMAKER
+
+**HFmrEF** (frazione d'eiezione 41-49%)
+1) Diuretici
+2) Dapa/Empaglifozin
+Con evidenze minori, tutti i farmaci citati prima si possono usare, TRANNE IVABRADINA E DIGOSSINA
+
+**HFpEF** (frazione d'eiezione ≥ 50%)
+1) Diuretici
+2) Dapa/Empaglifozin
+3) Ricerca eziologica (più importante rispetto ai primi due casi)
+4) Gestione comorbidità CV e non (sono spesso donne anziane pluripatologiche)
+
+## Terapia carenza di ferro nello scompenso
+
+Va ricercata sempre nel pz con scompenso, NON ASPETTARE L'ANEMIA
+- **Carenza assoluta** → Ferritina < 100 mcg/L
+- **Carenza funzionale** (base infiammatoria) → Ferritina 100-299 mcg/L - TSAT < 20%
+
+Nel cardiopatico, il quadro è spesso misto, ma prevale l'assoluta perché:
+- malassorbimento dato dalle mucose edematose
+- concomitanti tp con PPI, antiaggreganti, anticoagulati
+
+Tp endovena
+1) Ferro derisomaltosio
+2) Ferro carbossimaltosio
