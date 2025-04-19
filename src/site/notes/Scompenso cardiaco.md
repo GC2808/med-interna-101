@@ -6,7 +6,7 @@ Punto di convergenza di tutte le cardiopatie in fase terminale
 
 IC a frazione ridotta = insufficienza sistolica = gittata cardiaca minore
 - IMA causa principale
-- Cuori dilatati perché la zona infartuata tende a espandersi e ad alterare il profilo del ventricolo
+- Cuori dilatati, perché la zona infartuata tende a espandersi e ad alterare il profilo del ventricolo
 
 IC a frazione conservata = aumento delle pressioni al termine della diastole, a causa del rilascio inadeguato di un cuore non compliante. Si ripercuote sul circolo polmonare e dà dispnea.
 - Cuori ipertrofici e rigidi
@@ -16,6 +16,7 @@ ATTIVAZIONE NEUROORMONALE NELL'IC
 1) Simpatico = tachicardizza il paziente (la tachicardia in IC è da evitare come la peste)
 2) RAAS = trattiene liquidi per un cuore dall'inotropismo compromesso
 3) ADH = idem, trattiene liquidi
+
 Peptidi natriuretici → si oppongono a RAAS e ADH
 
 Cosa può riacutizzare un'IC?
