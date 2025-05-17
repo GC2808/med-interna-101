@@ -3,6 +3,7 @@
 ---
 
 [[Angina di Prinzmetal\|Angina di Prinzmetal]]
+[[Aritmie\|Aritmie]]
 [[Cardiopatia ischemica\|Cardiopatia ischemica]]
 [[Insufficienza aortica\|Insufficienza aortica]]
 [[Insufficienza mitralica\|Insufficienza mitralica]]
